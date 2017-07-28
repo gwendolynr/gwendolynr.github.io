@@ -6,20 +6,18 @@
     <description>Recent content in R on Gwen&#39;s Data Science Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gwendolynr.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>https://gwendolynr.github.io/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Mapping Census Data (ACS) Tutorial</title>
+      <link>https://gwendolynr.github.io/post/mapping-census-data-acs-tutorial/</link>
+      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://gwendolynr.github.io/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>https://gwendolynr.github.io/post/mapping-census-data-acs-tutorial/</guid>
+      <description>Mapping ACS Data Leaflet is one of my favorite packages. The color choice brings me an unreasonable amount of joy, as do the slightly translucent city and street names. It’s a gorgeous design that makes maps look sleek and modern. So when my colleague, Jon Zadra, decided to map out preschool aged children for a project we are working on in Oregon, I got really excited.</description>
     </item>
     
   </channel>
