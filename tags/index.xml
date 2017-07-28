@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gwen&#39;s Data Science Blog</title>
-    <link>https://gwendolynr.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Gwen&#39;s Data Science Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://gwendolynr.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Acs</title>
-      <link>https://gwendolynr.github.io/tags/acs/</link>
+      <link>/tags/acs/</link>
       <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://gwendolynr.github.io/tags/acs/</guid>
+      <guid>/tags/acs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leaflet</title>
-      <link>https://gwendolynr.github.io/tags/leaflet/</link>
+      <link>/tags/leaflet/</link>
       <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://gwendolynr.github.io/tags/leaflet/</guid>
+      <guid>/tags/leaflet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapping</title>
-      <link>https://gwendolynr.github.io/tags/mapping/</link>
+      <link>/tags/mapping/</link>
       <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://gwendolynr.github.io/tags/mapping/</guid>
+      <guid>/tags/mapping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>https://gwendolynr.github.io/tags/r-markdown/</link>
+      <link>/tags/r-markdown/</link>
       <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://gwendolynr.github.io/tags/r-markdown/</guid>
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>School Districts</title>
-      <link>https://gwendolynr.github.io/tags/school-districts/</link>
+      <link>/tags/school-districts/</link>
       <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://gwendolynr.github.io/tags/school-districts/</guid>
+      <guid>/tags/school-districts/</guid>
       <description></description>
     </item>
     
