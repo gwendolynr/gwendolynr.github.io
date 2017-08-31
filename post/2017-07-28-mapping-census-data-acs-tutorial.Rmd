@@ -121,7 +121,7 @@ Ok, if you've stayed with me this far, let's dive deeper into mapping with ACS d
 
 Below, I create a map for median income for all Salt Lake County school districts. One thing to keep in mind is ACS data distinguishes school districts differently depending on your state. Utah has unified school districts, but if you're trying to map a different type of school district, you'll need to use the slighly different acs/tigris functions. 
 
-```{r SCLO school district map}
+```{r SCLO school district map, message=FALSE, warning=FALSE}
 
 ## These are the packages you'll need. tigris, acs, and leaflet do all of the heavy lifting. If you don't have them yet, use install.packages and then load them up below. 
 
